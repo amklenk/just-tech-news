@@ -4,7 +4,7 @@
   "description": "An application built by following the steps of a course module on ORM and Sequelize.",
   "main": "server.js",
   "scripts": {
-    "start": "npm start"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
