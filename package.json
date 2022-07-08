@@ -4,7 +4,8 @@
   "description": "An application built by following the steps of a course module on ORM and Sequelize.",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js", 
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,7 @@
     "sequelize": "^6.21.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "jest": "^28.1.2"
   }
 }
